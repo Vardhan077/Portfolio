@@ -23,3 +23,19 @@ menu_item.forEach((item) => {
 		mobile_menu.classList.toggle('active');
 	});
 });
+
+const img1 = () =>{
+	window.location.href = 'https://vardhan077.github.io/Calculator/'
+}
+
+const img2 = () =>{
+	window.location.href = 'https://github.com/Vardhan077/Chat-App'
+}
+
+const img3 = () =>{
+	window.location.href = 'https://vardhan077.github.io/Comments/'
+}
+
+const img4 = () =>{
+	window.location.href = ' https://vardhan077.github.io/emoji_game/'
+}
