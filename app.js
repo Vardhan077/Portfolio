@@ -25,7 +25,7 @@ menu_item.forEach((item) => {
 });
 
 const img1 = () =>{
-	window.location.href = 'https://vardhan077.github.io/Calculator/'
+	window.location.href = 'https://romanShopApp.ccbp.tech'
 }
 
 const img2 = () =>{
