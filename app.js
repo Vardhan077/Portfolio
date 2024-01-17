@@ -29,11 +29,11 @@ const img1 = () =>{
 }
 
 const img2 = () =>{
-	window.location.href = 'https://myTubeApp.ccbp.tech'
+	window.location.href = 'https://github.com/Vardhan077/Chat-App'
 }
 
 const img3 = () =>{
-	window.location.href = 'https://vardhan077.github.io/Comments/'
+	window.location.href = 'https://myTubeApp.ccbp.tech'
 }
 
 const img4 = () =>{
