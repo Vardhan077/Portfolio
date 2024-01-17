@@ -29,7 +29,7 @@ const img1 = () =>{
 }
 
 const img2 = () =>{
-	window.location.href = 'https://github.com/Vardhan077/Chat-App'
+	window.location.href = 'https://myTubeApp.ccbp.tech'
 }
 
 const img3 = () =>{
